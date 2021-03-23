@@ -1,0 +1,40 @@
+uniprot_id: P00520
+
+Dock in protein: 3MS9_MS9
+Starting Dock:
+Finished Dock: 
+Starting Score: 
+Finished Score
+Starting Filter
+Finished Filter
+Start Align:
+Finished Align
+Start rmsd
+worked
+3MS9_MS9 1FPU_PRC 16.145
+
+did not work
+3MS9 3KFA_B91
+
+worked
+3MS9_MS9 6HD6_FYH 4.936
+
+did not work
+3MS9 3K5V_STI
+
+worked
+3MS9_MS9 3MS9_MS9 0.242
+
+did not work
+3MS9 2QOH_P3Y
+
+did not work
+3MS9 6HD4_FYW
+
+did not work
+3MS9 3KF4_B90
+
+worked
+3MS9_MS9 3K5V_STJ 3.432
+
+Finish rmsd

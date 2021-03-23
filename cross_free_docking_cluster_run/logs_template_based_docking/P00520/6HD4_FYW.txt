@@ -1,0 +1,40 @@
+uniprot_id: P00520
+
+Dock in protein: 6HD4_FYW
+Starting Dock:
+Finished Dock: 
+Starting Score: 
+Finished Score
+Starting Filter
+Finished Filter
+Start Align:
+Finished Align
+Start rmsd
+worked
+6HD4_FYW 1FPU_PRC 10.015
+
+did not work
+6HD4 3KFA_B91
+
+worked
+6HD4_FYW 6HD6_FYH 4.698
+
+worked
+6HD4_FYW 3K5V_STI 13.218
+
+worked
+6HD4_FYW 3MS9_MS9 5.998
+
+worked
+6HD4_FYW 2QOH_P3Y 6.689
+
+worked
+6HD4_FYW 6HD4_FYW 3.739
+
+did not work
+6HD4 3KF4_B90
+
+worked
+6HD4_FYW 3K5V_STJ 3.666
+
+Finish rmsd

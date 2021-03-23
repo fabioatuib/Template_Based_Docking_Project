@@ -1,0 +1,40 @@
+uniprot_id: P49356
+
+Dock in protein: 1S63_778
+Starting Dock:
+Finished Dock: 
+Starting Score: 
+Finished Score
+Starting Filter
+Finished Filter
+Start Align:
+Finished Align
+Start rmsd
+worked
+1S63_778 1MZC_BNE 1.505
+
+did not work
+1S63 2IEJ_FII
+
+worked
+1S63_778 1LD7_U66 6.027
+
+worked
+1S63_778 1JCQ_739 4.936
+
+worked
+1S63_778 2IEJ_S48 5.839
+
+worked
+1S63_778 1SA4_JAN 6.177
+
+worked
+1S63_778 3E37_ED5 8.948
+
+did not work
+1S63 1LD8_FPP
+
+worked
+1S63_778 1S63_778 5.416
+
+Finish rmsd

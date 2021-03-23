@@ -1,0 +1,40 @@
+uniprot_id: P49356
+
+Dock in protein: 1JCQ_739
+Starting Dock:
+Finished Dock: 
+Starting Score: 
+Finished Score
+Starting Filter
+Finished Filter
+Start Align:
+Finished Align
+Start rmsd
+worked
+1JCQ_739 1MZC_BNE 4.239
+
+worked
+1JCQ_739 2IEJ_FII 7.86
+
+worked
+1JCQ_739 1LD7_U66 5.531
+
+worked
+1JCQ_739 1JCQ_739 2.842
+
+worked
+1JCQ_739 2IEJ_S48 6.185
+
+worked
+1JCQ_739 1SA4_JAN 5.52
+
+worked
+1JCQ_739 3E37_ED5 6.427
+
+worked
+1JCQ_739 1LD8_FPP 9.906
+
+worked
+1JCQ_739 1S63_778 5.656
+
+Finish rmsd

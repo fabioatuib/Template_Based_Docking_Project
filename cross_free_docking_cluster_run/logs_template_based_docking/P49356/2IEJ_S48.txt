@@ -1,0 +1,40 @@
+uniprot_id: P49356
+
+Dock in protein: 2IEJ_S48
+Starting Dock:
+Finished Dock: 
+Starting Score: 
+Finished Score
+Starting Filter
+Finished Filter
+Start Align:
+Finished Align
+Start rmsd
+worked
+2IEJ_S48 1MZC_BNE 6.245
+
+did not work
+2IEJ 2IEJ_FII
+
+worked
+2IEJ_S48 1LD7_U66 6.779
+
+worked
+2IEJ_S48 1JCQ_739 7.942
+
+worked
+2IEJ_S48 2IEJ_S48 6.491
+
+worked
+2IEJ_S48 1SA4_JAN 7.275
+
+worked
+2IEJ_S48 3E37_ED5 7.606
+
+did not work
+2IEJ 1LD8_FPP
+
+worked
+2IEJ_S48 1S63_778 6.904
+
+Finish rmsd

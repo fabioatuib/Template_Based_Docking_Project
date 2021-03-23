@@ -1,0 +1,40 @@
+uniprot_id: P49356
+
+Dock in protein: 3E37_ED5
+Starting Dock:
+Finished Dock: 
+Starting Score: 
+Finished Score
+Starting Filter
+Finished Filter
+Start Align:
+Finished Align
+Start rmsd
+worked
+3E37_ED5 1MZC_BNE 6.505
+
+did not work
+3E37 2IEJ_FII
+
+worked
+3E37_ED5 1LD7_U66 7.546
+
+worked
+3E37_ED5 1JCQ_739 7.698
+
+worked
+3E37_ED5 2IEJ_S48 8.233
+
+worked
+3E37_ED5 1SA4_JAN 7.104
+
+worked
+3E37_ED5 3E37_ED5 9.427
+
+did not work
+3E37 1LD8_FPP
+
+worked
+3E37_ED5 1S63_778 5.746
+
+Finish rmsd

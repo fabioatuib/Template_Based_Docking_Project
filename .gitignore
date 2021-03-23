@@ -3,3 +3,5 @@ Align_Receptors/dictionary.csv
 
 # ignore of Create_Docking_Definitions_SeeSAR
 
+# ignore of cross_free_docking_cluster_run
+cross_free_docking_cluster_run/__pycache__

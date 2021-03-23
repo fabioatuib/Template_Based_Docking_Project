@@ -1,0 +1,40 @@
+uniprot_id: P00520
+
+Dock in protein: 3K5V_STJ
+Starting Dock:
+Finished Dock: 
+Starting Score: 
+Finished Score
+Starting Filter
+Finished Filter
+Start Align:
+Finished Align
+Start rmsd
+worked
+3K5V_STJ 1FPU_PRC 16.478
+
+did not work
+3K5V 3KFA_B91
+
+worked
+3K5V_STJ 6HD6_FYH 4.269
+
+worked
+3K5V_STJ 3K5V_STI 13.846
+
+worked
+3K5V_STJ 3MS9_MS9 5.875
+
+worked
+3K5V_STJ 2QOH_P3Y 12.423
+
+worked
+3K5V_STJ 6HD4_FYW 3.655
+
+did not work
+3K5V 3KF4_B90
+
+worked
+3K5V_STJ 3K5V_STJ 3.815
+
+Finish rmsd

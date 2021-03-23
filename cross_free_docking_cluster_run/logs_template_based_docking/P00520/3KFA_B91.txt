@@ -1,0 +1,40 @@
+uniprot_id: P00520
+
+Dock in protein: 3KFA_B91
+Starting Dock:
+Finished Dock: 
+Starting Score: 
+Finished Score
+Starting Filter
+Finished Filter
+Start Align:
+Finished Align
+Start rmsd
+worked
+3KFA_B91 1FPU_PRC 9.462
+
+worked
+3KFA_B91 3KFA_B91 1.234
+
+worked
+3KFA_B91 6HD6_FYH 10.219
+
+worked
+3KFA_B91 3K5V_STI 6.806
+
+worked
+3KFA_B91 3MS9_MS9 5.435
+
+worked
+3KFA_B91 2QOH_P3Y 2.752
+
+worked
+3KFA_B91 6HD4_FYW 10.697
+
+worked
+3KFA_B91 3KF4_B90 0.951
+
+worked
+3KFA_B91 3K5V_STJ 8.53
+
+Finish rmsd
