@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Align_Receptors.iml" filepath="$PROJECT_DIR$/.idea/Align_Receptors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Create_Docking_Definitions_SeeSAR/.idea/Create_Docking_Definitions_SeeSAR.iml" filepath="$PROJECT_DIR$/../Create_Docking_Definitions_SeeSAR/.idea/Create_Docking_Definitions_SeeSAR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SASA_calculation/.idea/SASA_calculation.iml" filepath="$PROJECT_DIR$/../SASA_calculation/.idea/SASA_calculation.iml" />
+    </modules>
+  </component>
+</project>
