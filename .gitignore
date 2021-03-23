@@ -1,2 +1,5 @@
 # ignore output of Align_Receptors/
 Align_Receptors/dictionary.csv
+
+# ignore of Create_Docking_Definitions_SeeSAR
+
