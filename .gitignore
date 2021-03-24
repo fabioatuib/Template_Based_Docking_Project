@@ -5,3 +5,19 @@ Align_Receptors/dictionary.csv
 
 # ignore of cross_free_docking_cluster_run
 cross_free_docking_cluster_run/__pycache__
+
+# ignore of Expanded_Astex_Diverse_Set
+Expanded_Astex_Diverse_Set/smiles_to_genconformer/*.smi
+!Expanded_Astex_Diverse_Set/smiles_to_genconformer/P00520_smiles_to_genconformer.smi
+
+Expanded_Astex_Diverse_Set/reference_ligands/*
+!Expanded_Astex_Diverse_Set/reference_ligands/P11712/*
+
+Expanded_Astex_Diverse_Set/pdb_files_originals/*
+!Expanded_Astex_Diverse_Set/pdb_files_originals/P11712/*
+
+Expanded_Astex_Diverse_Set/pdb_files/*
+!Expanded_Astex_Diverse_Set/pdb_files/P11712/*
+
+Expanded_Astex_Diverse_Set/astex-diverse-set/*.csv
+!Expanded_Astex_Diverse_Set/astex-diverse-set/P11712.csv

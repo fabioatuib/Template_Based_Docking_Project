@@ -1,0 +1,3 @@
+Astex_Diverse_Set,Protein_Class,Uniprot_ID,Protein_ID,Ligand_Name,Chain,resolution,mutated,count,Smiles
+1R9O,1.14.14.1,P11712,5K7K,6RJ,A,2.3,0,2,N#Cc1cc(S(=O)(=O)Nc2nccs2)ccc1Oc1ccc(Cl)cc1-c1cn[nH]c1
+1R9O,1.14.14.1,P11712,5W0C,9W6,A,2.0,0,2,CCOC(=O)NC(=O)c1ccsc1NC(=O)c1nc2cnccc2s1
