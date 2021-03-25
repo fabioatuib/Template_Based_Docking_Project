@@ -27,3 +27,10 @@ Expanded_Astex_Diverse_Set/astex-diverse-set/*.csv
 # ignore of notebook_to_create_definition_files
 
 # ignore of notebook_to_remove_bad_hets
+
+# ignore of self_cross_TBD_cluster_run
+self_cross_TBD_cluster_run/conformers_to_dock/*
+!self_cross_TBD_cluster_run/conformers_to_dock/conformers_to_dock_folder.txt
+
+self_cross_TBD_cluster_run/reference_ligands/*
+!self_cross_TBD_cluster_run/reference_ligands/reference_ligands_folder.txt
