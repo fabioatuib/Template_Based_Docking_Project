@@ -23,3 +23,6 @@ Expanded_Astex_Diverse_Set/astex-diverse-set/*.csv
 !Expanded_Astex_Diverse_Set/astex-diverse-set/P11712.csv
 
 # ignore of hyde_optimize_templates
+
+# ignore of notebook_to_create_definition_files
+
