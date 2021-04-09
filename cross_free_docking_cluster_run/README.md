@@ -1,2 +1,4 @@
 # self_cross_TBD_cluster_run
- folder structure and scripts to run template-based docking on the cluster
+ Folder structure and scripts to run free docking on the cluster.
+ 
+ Free cross-docking is done for comparison purposes with template-based cross-docking.
